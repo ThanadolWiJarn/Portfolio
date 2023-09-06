@@ -1,9 +1,8 @@
 *{
     padding: 0;
     margin: 0;
-    font-family: cursive;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     box-sizing: border-box;
-    font-style: italic;
     background-color: #000000; 
 }
 
