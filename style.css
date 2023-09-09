@@ -11,7 +11,7 @@
     overflow: hidden;
     border-right: .15em solid rgb(255, 255, 255);
     white-space: nowrap;
-    animation: typing 2s steps(20, end) forwards, blinking .8s infinite;
+    animation: typing 2s steps(40, end) forwards, blinking .8s infinite;
     font-size: 50px;
     width: 0;
     
@@ -26,7 +26,7 @@
 
 @keyframes blinking {
     from { border-color: transparent }
-    to { border-color: rgb(255, 255, 255); }
+    to { border-color: rgb(0, 0, 0); }
 }
 
 
@@ -118,8 +118,10 @@ h4{
     font-size: 25px;
     text-align: center;
     background-color: #ffffff;
+   
 
 }
+
 h5{
 
     color: rgb(255, 215, 0);
@@ -152,7 +154,7 @@ h5{
     margin-top: 0px;
     text-align: center;
     width: 100%;
-    padding-top: 260px;
+    padding-top: 240px;
     padding-bottom: 20px;
 
 }
@@ -162,7 +164,7 @@ h5{
     color: rgb(255, 255, 255); 
     text-align: center;
     font-size:40px;
-    padding-bottom: 20px;
+    padding-bottom: 1px;
   
 }
 
@@ -170,6 +172,7 @@ h5{
    
     color: rgb(255, 255, 255); 
     font-size:25px;
+   
     
 }
 
@@ -217,16 +220,9 @@ h5{
      
 }
 
-.Cerimgsize{
-    
-    width: 80%;
-    height: 80%;
- 
-}
-
 .row {
     
-    display: flex;
+    display:flex;
     margin-left: auto;
     margin-right: auto;
 
@@ -274,7 +270,21 @@ h5{
 .header-Activity-text{
     color: rgb(255, 255, 255); 
     text-align: center;
-    font-size:40px;
+    font-size:60px;
     padding-bottom: 20px;
   
+}
+
+.Actimgsize{
+    
+    width: 70%;
+    height: 70%;
+ 
+}
+
+.Aec-text{
+
+    color: rgb(255, 255, 255); 
+    font-size:30px;
+
 }
