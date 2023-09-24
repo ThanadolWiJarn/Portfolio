@@ -25,7 +25,7 @@
 
 @keyframes blinking {
     from { border-color: transparent }
-    to { border-color: rgb(0, 0, 0); }
+    to { border-color: #0C356A; }
 }
 
 
@@ -150,6 +150,13 @@ h5{
 }
   
 .buttonResume:hover {background-color: #a50000}
+
+.isize{
+        
+    width: 90%;
+    height: 100%;
+ 
+}
 
 /*contactpage*/
 
@@ -294,7 +301,7 @@ h5{
         margin: 0;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         box-sizing: border-box;
-        background-color: #000000; 
+        background-color: #0C356A; 
     }
     
     .typed-out{
@@ -316,7 +323,7 @@ h5{
     
     @keyframes blinking {
         from { border-color: transparent }
-        to { border-color: rgb(0, 0, 0); }
+        to { border-color: #0C356A; }
     }
     
     
@@ -584,7 +591,7 @@ h5{
         margin: 0;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         box-sizing: border-box;
-        background-color: #000000; 
+        background-color: #0C356A; 
     }
     
     .typed-out{
@@ -606,7 +613,7 @@ h5{
     
     @keyframes blinking {
         from { border-color: transparent }
-        to { border-color: rgb(0, 0, 0); }
+        to { border-color: #0C356A; }
     }
     
     
