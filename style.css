@@ -153,7 +153,7 @@ h5{
 
 .isize{
         
-    width: 90%;
+    width: 100%;
     height: 100%;
  
 }
@@ -446,6 +446,13 @@ h5{
         margin-top: 30px;
         
     }
+
+    .isize{
+        
+        width: 100%;
+        height: 100%;
+     
+    }
       
     .buttonResume:hover {background-color: #a50000}
     
@@ -734,7 +741,14 @@ h5{
         font-size: 15px;
         margin-top: 20px;
     }
-      
+    
+    .isize{
+        
+        width: 100%;
+        height: 100%;
+     
+    }
+
     .buttonResume:hover {background-color: #a50000}
     
     /*contactpage*/
